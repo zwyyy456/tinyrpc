@@ -12,3 +12,4 @@ lib/*
 *.a
 *.pb.h
 *.pb.cc
+.cache/clangd/index
